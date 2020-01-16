@@ -3,7 +3,7 @@ public class TesteFuncionario {
 
 	public static void main(String[] args) {
 
-		Funcionario func = new Funcionario();
+		Funcionario func = new Gerente();
 		func.setNome("Rodrigo");
 		func.setCpf("Rodrigo");
 		func.setSalario(1000);		
